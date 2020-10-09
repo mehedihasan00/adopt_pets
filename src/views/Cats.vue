@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import cats from "../data/cats";
+import cats from "@/data/cats";
 export default {
   data() {
     return {
