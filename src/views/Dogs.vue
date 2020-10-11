@@ -1,6 +1,9 @@
 <template>
   <div>
-    <b-table striped hover :items="dogs" />
+    <h1>Dogs for adoption</h1>
+    <b-table striped hover :items="dogs">
+      //some thing here have to define
+    </b-table>
   </div>
 </template>
 
